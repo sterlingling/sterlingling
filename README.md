@@ -7,7 +7,9 @@ Database: PostgreSQL, MongoDB, MySQL, SQLite
 DevOps: Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions), AWS, Azure
 Other Tools: Git, Webpack, Babel, Jest, Mocha
 🌟 What I’m Working On
--
+...
+...
+...
 Contributing to open-source projects focused on improving web accessibility.
 Experimenting with serverless architectures and microservices.
 🌱 What I’m Learning
